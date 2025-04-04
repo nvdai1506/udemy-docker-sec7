@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Content is changed!!!
+          Learn React
         </a>
+        <div>Content is changed!!!</div>
       </header>
     </div>
   );
